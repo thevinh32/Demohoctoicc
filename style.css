@@ -1,0 +1,17 @@
+.header-demo {
+    background-color: #df808b;
+    width: 100%;
+    height: 80px;
+}
+.header-demo i {
+    font-size: 20px;
+}
+.btn-abc {
+    border: 1px solid #5ba7a7;
+    color: white;
+    border-radius: 15px;
+    width: 120px;
+    height: 40px;
+    background-color: #df808b;
+    font-family: 'Ysabeau Office', sans-serif;
+}
